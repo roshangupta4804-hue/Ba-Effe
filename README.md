@@ -1,8 +1,8 @@
 # Readme
 
-# 💥 DhamaalEffeKa - Effervescence Creatives Repository
+# 💥 Ba-Effe: Effervescence Creatives Repository
 
-Welcome to **DhamaalEffeKa**, the design repository for **Effervescence**, the annual cultural fest of IIIT Allahabad.
+Welcome to **Ba-Effe**, the design repository for **Effervescence**, the annual cultural fest of IIIT Allahabad.
 
 Whether you're taking your first steps in design or you're a seasoned pro, this is your space to contribute and collaborate.
 
