@@ -14,7 +14,7 @@ And here's where it gets interesting: just like the film Barfi transported us ba
 
 Whether you're taking your first steps in design or you're a seasoned pro, this is your space to contribute and collaborate.
 
-> 📖 **Want to dive deeper into the Rangara theme?** Check out the complete theme guide: [**Effervescence'25 Theme PDF**](./Theme/effe 3.pdf)
+> 📖 **Want to dive deeper into the Rangara theme?** Check out the complete theme guide: [**Effervescence'25 Theme PDF**](./Theme/Rangara.pdf)
 
 ---
 ## 🌟 What This Repo Is For
